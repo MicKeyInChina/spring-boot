@@ -13,7 +13,7 @@ public class App {
 	 * @SpringBootApplication注解的类一定要放在自定义包下且属于自定义包的
 	 * 
 	 * @SpringBootApplication is a convenience annotation that adds all of the following:
-	 * @SpringBootApplication是一个方便的注解，增加了所有的以下内容：
+	 * @SpringBootApplication是一个方便的注解，增加了所有的以下内容：11111
 	 * 
 	 * @Configuration tags the class as a source of bean definitions for the application context.
 	 * @Configuration 标记一个类来作为bean定义的应用程序上下文的资源
