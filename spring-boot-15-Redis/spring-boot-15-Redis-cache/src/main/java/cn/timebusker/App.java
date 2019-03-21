@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class App {
 
 	public static void main(String[] args) {
-		// spring boot实践
+		// spring boot实践23
 		SpringApplication.run(App.class, args);
 	}
 }
